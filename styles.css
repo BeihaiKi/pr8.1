@@ -4,7 +4,7 @@
     font-family: 'Lora';
     font-style: normal;
     font-weight: 400;
-    src: url('../fonts/lora-v32-latin-regular.woff2') format('woff2'); 
+    src: url('./fonts/lora-v32-latin-regular.woff2') format('woff2'); 
   }
   /* lora-700 - latin */
   @font-face {
@@ -12,7 +12,7 @@
     font-family: 'Lora';
     font-style: normal;
     font-weight: 700;
-    src: url('../fonts/lora-v32-latin-700.woff2') format('woff2'); 
+    src: url('./fonts/lora-v32-latin-700.woff2') format('woff2'); 
   }
   /* inter-regular - latin */
 @font-face {
@@ -20,7 +20,7 @@
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
-    src: url('../fonts/inter-v13-latin-regular.woff2') format('woff2'); 
+    src: url('./fonts/inter-v13-latin-regular.woff2') format('woff2'); 
   }
 
 *{
